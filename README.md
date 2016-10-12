@@ -18,6 +18,7 @@
 	- [Books](#books)
 	- [Standards](#standards)
 	- [Tools](#tools)
+	- [Courses](#courses)
 - [License](#license)
 
 <!-- /TOC -->
@@ -63,6 +64,10 @@
 
 - [PlatformIO](http://platformio.org/) - PlatformIO is an open source ecosystem for IoT development
 Cross-platform build system. Continuous and IDE integration. Arduino and ARM mbed compatible
+
+### Courses
+
+- [edX Embedded Systems Course by University of Texas Austin](https://www.edx.org/course/embedded-systems-shape-world-utaustinx-ut-6-03x)
 
 ## License
 
