@@ -12,6 +12,12 @@
 	- [Communication](#communication)
 	- [Testing](#testing)
 	- [Frameworks](#frameworks)
+	- [Embedded Linux](#embedded-linux)
+	- [Alternative Languages (Not C/C++)](#alternative-languages-not-cc)
+		- [Rust](#rust)
+		- [Elixir](#elixir)
+		- [Ada and Spark](#ada-and-spark)
+		- [Javascript](#javascript)
 - [Resources](#resources)
 	- [Podcasts](#podcasts)
 	- [Videos](#videos)
@@ -38,6 +44,28 @@
 
 - [Arduino](https://www.arduino.cc/)
 - [ARM mbed](https://www.mbed.com/en/) - The ARM mbed IoT Device Platform provides the operating system, cloud services, tools and developer ecosystem to make the creation and deployment of commercial, standards-based IoT solutions possible at scale.
+
+### Embedded Linux
+
+- [yocto](https://www.yoctoproject.org/) - Yecto is a tool for creating custom embedded linux systems
+- [Buildroot](https://buildroot.org/) - Buildroot is a simple, efficient and easy-to-use tool to generate embedded Linux systems through cross-compilation.
+
+### Alternative Languages (Not C/C++)
+
+#### Rust
+- [Zinc](https://zinc.rs/) - Bare-metal ARM stack for rust. Aimed at replacing CMSIS or mbed (currently defunct)
+- [rust-embedded](https://github.com/rust-embedded/rfcs) - RFCs proposed by the Rust community for better embedded systems support.
+
+#### Elixir
+- [Nerves](http://nerves-project.org/) - Uses buildroot to deploy Elixir programs running on the Erlang VM to embedded linux boards
+
+#### Ada and Spark
+
+- [AdaCore](https://github.com/AdaCore) - Open source maintainer of Ada with a focus on embedded use.
+
+#### Javascript
+
+- [Tessel](https://tessel.io/) - A openWRT based embedded system which can run Javascript.
 
 ## Resources
 
