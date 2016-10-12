@@ -46,8 +46,8 @@
 
 ### Embedded Linux
 
-- [yocto]()
-- [Buildroot]()
+- [yocto](https://www.yoctoproject.org/) - Yecto is a tool for creating custom embedded linux systems
+- [Buildroot](https://buildroot.org/) - Buildroot is a simple, efficient and easy-to-use tool to generate embedded Linux systems through cross-compilation.
 
 ### Alternative Languages (Not C/C++)
 
