@@ -10,6 +10,8 @@
 
 - [Packages, Libraries and RTOSes](#packages-libraries-and-rtoses)
 	- [Communication](#communication)
+	- [RTOS](#rtos)
+
 	- [Testing](#testing)
 	- [Frameworks](#frameworks)
 	- [Embedded Linux](#embedded-linux)
@@ -34,6 +36,15 @@
 ### Communication
 
 - [nanopb](https://koti.kapsi.fi/jpa/nanopb/) - Nanopb is a plain-C implementation of Google's Protocol Buffers data format. It is targeted at 32 bit microcontrollers, but is also fit for other embedded systems with tight (2-10 kB ROM, <1 kB RAM) memory constraints.
+- [lwIP](http://savannah.nongnu.org/projects/lwip/) - lwIP is a small independent implementation of the TCP/IP protocol suite that has been initially developed by Adam Dunkels.
+- [CanFestival](http://www.canfestival.org/) - CanFestival focuses on providing an ANSI-C platform independent CANOpen® stack that can be built as master or slave nodes on PCs, Real-time IPCs, and Microcontrollers. 
+- [CANopenNode](https://github.com/CANopenNode/CANopenNode) - CANopenNode is written in ANSI C in object-oriented way. It runs on different microcontrollers, as standalone application or with RTOS
+
+### RTOS
+
+- [FreeRTOS](http://www.freertos.org/) - A free use Real Time Operating system which is widely used and supports a large number of platforms.
+- [RTEMS](https://www.rtems.org/) - Real-Time Executive for Multiprocessor Systems or RTEMS is an open source Real Time Operating System (RTOS) that supports open standard application programming interfaces (API) such as POSIX. It is used in space flight, medical, networking and many more embedded devices using processor architectures including ARM, PowerPC, Intel, Blackfin, MIPS, Microblaze and more.
+- [uC/os](https://www.micrium.com/rtos/kernels/) - µC/OS-II and µC/OS-III are preemptive, highly portable, and scalable real-time kernels. You can test them out for free, but you must pay to put them into a product.
 
 ### Testing
 
@@ -83,6 +94,7 @@
 
 - [Making Embedded Systems by Elicia White](https://www.amazon.com/Making-Embedded-Systems-Patterns-Software/dp/1449302149) - Covers the basics of embedded systems architecture, design and patterns.
 - [Test Driven Developmet for Embedded C by James Grenning](https://www.amazon.com/Driven-Development-Embedded-Pragmatic-Programmers/dp/193435662X/ref=asap_bc?ie=UTF8) - How to approach test driven development for embedded devices written in C.
+- [uC/OS-III, The Real-Time Kernel by Jean J Labrosse](https://www.amazon.com/dp/0982337531/ref=pd_lpo_sbs_dp_ss_3?pf_rd_p=1944687682&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=1578201039&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=SVE997FF9MNQ1VYEJCM1) - A book about the Micrium's uC/os III. It is a great resource on how RTOSes for embedded systems should work.
 
 ### Standards
 
