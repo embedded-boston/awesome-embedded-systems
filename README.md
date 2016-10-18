@@ -77,6 +77,7 @@
 #### Javascript
 
 - [Tessel](https://tessel.io/) - A openWRT based embedded system which can run Javascript.
+- [JerryScript](https://github.com/Samsung/jerryscript) - A JavaScript engine intended to run on a very constrained devices such as microcontrollers. Designed for the Internet of Things.
 
 ## Resources
 
