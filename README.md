@@ -108,6 +108,7 @@
 
 - [PlatformIO](http://platformio.org/) - PlatformIO is an open source ecosystem for IoT development
 Cross-platform build system. Continuous and IDE integration. Arduino and ARM mbed compatible
+- [Energia](http://energia.nu) - Energia is an open-source electronics prototyping platform, it brings the Wiring and Arduino framework to the Texas Instruments MSP430 based LaunchPad, it includes an IDE that is based on Processing.
 
 ### Courses
 
