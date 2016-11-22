@@ -20,6 +20,7 @@
 		- [Elixir](#elixir)
 		- [Ada and Spark](#ada-and-spark)
 		- [Javascript](#javascript)
+	- [STL](#stl)
 - [Resources](#resources)
 	- [Podcasts](#podcasts)
 	- [Videos](#videos)
@@ -81,6 +82,10 @@
 
 - [Tessel](https://tessel.io/) - A openWRT based embedded system which can run Javascript.
 - [JerryScript](https://github.com/Samsung/jerryscript) - A JavaScript engine intended to run on a very constrained devices such as microcontrollers. Designed for the Internet of Things.
+
+### STL
+
+- [ETL](https://github.com/etlcpp/etl) - Embedded Template Library which offers compile time defined container sizes, full C++ 03 and partial C++ 11 compatibility, deterministic behaviour, additional components for the embedded domain, etc. 
 
 ## Resources
 
