@@ -114,6 +114,13 @@ Cross-platform build system. Continuous and IDE integration. Arduino and ARM mbe
 ### Courses
 
 - [Fun & Easy Embedded Microcontroller Communication Protocols (Udemy)](https://www.udemy.com/fun-easy-embedded-microcontroller-communication-protocols/) - Content: I2C/TWI, SPI, UART, MODBUS RTU, CAN, USB, ETHERNET, PCIE
+- [ARM Cortex-M Bare-Metal Embedded-C Programming (Udemy)](https://www.udemy.com/cortex-m-internals-master-pointers-structures-memory-etc/)
+- [ARM Cortex-M Assembly Programming (Udemy)](https://www.udemy.com/arm-cortex-m-assembly-programming/)
+- [Introduction to Embedded Systems using 8051 Microcontroller (Udemy)](https://www.udemy.com/introduction-to-embedded-systems-using-8051-microcontroller/)
+- [Mastering Microcontroller with Peripheral Driver Development (Udemy)](https://www.udemy.com/mastering-microcontroller-with-peripheral-driver-development/)
+- [Embedded Systems Programming on ARM Cortex-M3/M4 Processor (Udemy)](https://www.udemy.com/embedded-system-programming-on-arm-cortex-m3m4/)
+- [Foundation course on Embedded Linux (Udemy)](https://www.udemy.com/foundation-course-on-embedded-linux/)
+- [Hands-on Embedded Systems, ARM Cortex Tutorials - ADCs (Udemy)](https://www.udemy.com/armcortex-adc/)
 - [edX Embedded Systems Course by University of Texas Austin](https://www.edx.org/course/embedded-systems-shape-world-utaustinx-ut-6-03x)
 - [UNC Charlotte Embedded Systems Course](https://www.youtube.com/playlist?list=PLE4462C1C306E2EB2) 
  
