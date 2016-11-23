@@ -113,6 +113,7 @@ Cross-platform build system. Continuous and IDE integration. Arduino and ARM mbe
 
 ### Courses
 
+- [Fun & Easy Embedded Microcontroller Communication Protocols (Udemy)](https://www.udemy.com/fun-easy-embedded-microcontroller-communication-protocols/) - Content: I2C/TWI, SPI, UART, MODBUS RTU, CAN, USB, ETHERNET, PCIE
 - [edX Embedded Systems Course by University of Texas Austin](https://www.edx.org/course/embedded-systems-shape-world-utaustinx-ut-6-03x)
 - [UNC Charlotte Embedded Systems Course](https://www.youtube.com/playlist?list=PLE4462C1C306E2EB2) 
  
