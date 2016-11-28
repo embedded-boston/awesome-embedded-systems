@@ -38,7 +38,7 @@
 
 - [nanopb](https://koti.kapsi.fi/jpa/nanopb/) - Nanopb is a plain-C implementation of Google's Protocol Buffers data format. It is targeted at 32 bit microcontrollers, but is also fit for other embedded systems with tight (2-10 kB ROM, <1 kB RAM) memory constraints.
 - [lwIP](http://savannah.nongnu.org/projects/lwip/) - lwIP is a small independent implementation of the TCP/IP protocol suite that has been initially developed by Adam Dunkels.
-- [CanFestival](http://www.canfestival.org/) - CanFestival focuses on providing an ANSI-C platform independent CANOpen® stack that can be built as master or slave nodes on PCs, Real-time IPCs, and Microcontrollers. 
+- [CanFestival](http://www.canfestival.org/) - CanFestival focuses on providing an ANSI-C platform independent CANOpen® stack that can be built as master or slave nodes on PCs, Real-time IPCs, and Microcontrollers.
 - [CANopenNode](https://github.com/CANopenNode/CANopenNode) - CANopenNode is written in ANSI C in object-oriented way. It runs on different microcontrollers, as standalone application or with RTOS
 
 ### RTOS
@@ -46,6 +46,7 @@
 - [TinyOS](https://github.com/tinyos/tinyos-main) - A operating system designed for low-power wireless devices, such as those used in sensor networks, ubiquitous computing, personal area networks, smart buildings, and smart meters.
 - [ContikiOS](https://github.com/contiki-os/contiki) - A free Operating System with focus to provide standardized low-power wireless communication for a wide range of hardware platforms.
 - [FreeRTOS](http://www.freertos.org/) - A free use Real Time Operating system which is widely used and supports a large number of platforms.
+- [SafeRTOS](https://www.highintegritysystems.com/safertos/) - Certified version of FreeRTOS by TUEV SUED against IEC 61508 (basic functional safety standard) up to SIL3 (the highest safety integrity level for a single software component), ISO 26262 ASIL D (automotive standard) and EN62304 (medical device standard).
 - [INTEGRITY/INTEGRITY-178](http://www.ghs.com/products/rtos/integrity.html#performance) - Two commercial RTOS variants targeting to power embedded systems with total reliability, absolute security, and maximum real-time performance. The variant INTEGRYTY-178 has a lot of safety and security certifications.
 - [PikeOS](https://www.sysgo.com/products/pikeos-hypervisor/) - A commercial micro-kernel based operating system with a small footprint and certified for DO-178 (avionics), IEC-61508 (industrial), ISO-26262 (automotive).
 - [RIOT](https://github.com/RIOT-OS/)  - A free OS for IoT devices providing foundational trust services. The trust services include device identity, sealing, attestation, and data integrity. The term “Robust” is used because the minimal trusted computing base is tiny, and because RIoT capabilities can remotely re-establish trust in devices that have been compromised by malware.
@@ -93,8 +94,8 @@
 ### STL
 
 - [ESTL](https://github.com/esrlabs/estl-teaser) - C++ STL-like library for embedded developers with C++ 98 features only to maximize target platform compatibility.
-- [ETL](https://github.com/etlcpp/etl) - Embedded Template Library which offers compile time defined container sizes, full C++ 03 and partial C++ 11 compatibility, deterministic behaviour, additional components for the embedded domain, etc. 
-- [uSTL](https://github.com/msharov/ustl) - Partial, code size implementation of the STL. 
+- [ETL](https://github.com/etlcpp/etl) - Embedded Template Library which offers compile time defined container sizes, full C++ 03 and partial C++ 11 compatibility, deterministic behaviour, additional components for the embedded domain, etc.
+- [uSTL](https://github.com/msharov/ustl) - Partial, code size implementation of the STL.
 
 ## Resources
 
@@ -136,8 +137,8 @@ Cross-platform build system. Continuous and IDE integration. Arduino and ARM mbe
 - [Foundation course on Embedded Linux (Udemy)](https://www.udemy.com/foundation-course-on-embedded-linux/)
 - [Hands-on Embedded Systems, ARM Cortex Tutorials - ADCs (Udemy)](https://www.udemy.com/armcortex-adc/)
 - [edX Embedded Systems Course by University of Texas Austin](https://www.edx.org/course/embedded-systems-shape-world-utaustinx-ut-6-03x)
-- [UNC Charlotte Embedded Systems Course](https://www.youtube.com/playlist?list=PLE4462C1C306E2EB2) 
- 
+- [UNC Charlotte Embedded Systems Course](https://www.youtube.com/playlist?list=PLE4462C1C306E2EB2)
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
