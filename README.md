@@ -85,6 +85,7 @@
 - [yocto](https://www.yoctoproject.org/) - Yecto is a tool for creating custom embedded linux systems
 - [Buildroot](https://buildroot.org/) - Buildroot is a simple, efficient and easy-to-use tool to generate embedded Linux systems through cross-compilation.
 - [Mender](https://github.com/mendersoftware/mender) - Open source over-the-air (OTA) software updater for embedded Linux devices.
+- [SWUpdate](https://github.com/sbabic/swupdate) - Linux Update agent with the goal to provide an efficient and safe way to update (local, remote, multiple update strategies) an embedded system.
 
 ### Alternative Languages (Not C/C++)
 
