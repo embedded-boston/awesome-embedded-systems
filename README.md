@@ -117,6 +117,10 @@
 
 ## Resources
 
+### Other Lists
+
+- [Single File Libs](https://github.com/nothings/single_file_libs) - Single File libraries for C++ and C. Some might be useful for embedded systems use.
+
 ### Podcasts
 
 - [Embedded](http://embedded.fm/) - Elicia White and Christopher White interview makes, hackers and engineers who work on embedded systems
