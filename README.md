@@ -24,6 +24,7 @@
 		- [Javascript](#javascript)
 	- [STL](#stl)
 - [Resources](#resources)
+        - [Other Lists](#other-lists)
 	- [Podcasts](#podcasts)
 	- [Videos](#videos)
 	- [Books](#books)
@@ -41,7 +42,7 @@
 #### Ethernet 
 
 - [lwIP](http://savannah.nongnu.org/projects/lwip/) - lwIP is a small independent implementation of the TCP/IP protocol suite that has been initially developed by Adam Dunkels. Supports DHCP with AutoIP fallback, UDP, TCP, and an interrupt driven model.
-- [uIP[(https://github.com/adamdunkels/uip) - A very tiny IP stack, but also a very minimal IP stack. (Not maintained anymore)
+- [uIP](https://github.com/adamdunkels/uip) - A very tiny IP stack, but also a very minimal IP stack. (Not maintained anymore)
 
 #### CAN
 
@@ -52,7 +53,7 @@
 
 - [nanopb](https://koti.kapsi.fi/jpa/nanopb/) - Nanopb is a plain-C implementation of Google's Protocol Buffers data format. It is targeted at 32 bit microcontrollers, but is also fit for other embedded systems with tight (2-10 kB ROM, <1 kB RAM) memory constraints.
 - [mpack](https://github.com/ludocode/mpack) - A C encoder/decoder for [MessagePack](http://msgpack.com) messages suitable for resource constriants embedded systems. Supports disabling dynamic memory allocation and overriding malloc, free, and realloc.
-- [tinycbor[(https://github.com/01org/tinycbor) - Intel's implementation of [CBOR](http://cbor.io/) designed for their IOT-based applications and processors
+- [tinycbor](https://github.com/01org/tinycbor) - Intel's implementation of [CBOR](http://cbor.io/) designed for their IOT-based applications and processors
 
 ### RTOS
 
