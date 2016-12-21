@@ -74,6 +74,9 @@
 
 - [CppUTest](https://cpputest.github.io/) - unit testing and mocking framework for C/C++ with a focus on working for embedded systems!
 - [ceedling, unity and cmock](http://www.throwtheswitch.org/) - Unit testing, mocking and build framework written in C with ruby for generating and building.
+- [doctest](https://github.com/onqtam/doctest) - A lightweight and feature-rich C++98/C++11 single-header testing framework for unit tests and TDD.
+- [Mockitopp](https://github.com/tpounds/mockitopp) - A C++ mocking framework inspired by the ideas developed for Mockito written by Szczepan Faber, et al. The purpose is to provide similar construction semantics for creating mock objects leading to smaller, more readable test cases. It is designed to be a lightweight framework allowing you to mock dependencies for a system under test using a simple descriptive domain specific language. The goal is to help create simpler, less brittle test cases; ultimately, leading to less maintenance overhead in the future.
+- [Trompeloeil](https://github.com/rollbear/trompeloeil) - A thread safe header only mocking framework for C++14 using the Boost Software License 1.0
 
 ### Frameworks
 
