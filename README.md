@@ -168,6 +168,8 @@ Cross-platform build system. Continuous and IDE integration. Arduino and ARM mbe
 - [Foundation course on Embedded Linux (Udemy)](https://www.udemy.com/foundation-course-on-embedded-linux/)
 - [Hands-on Embedded Systems, ARM Cortex Tutorials - ADCs (Udemy)](https://www.udemy.com/armcortex-adc/)
 - [edX Embedded Systems Course by University of Texas Austin](https://www.edx.org/course/embedded-systems-shape-world-utaustinx-ut-6-03x)
+- [System Validation (1): Automata and behavioural equivalences (coursera)](https://www.coursera.org/learn/automata-system-validation)
+- [System Validation (2): Model process behaviour (coursera)](https://www.coursera.org/learn/system-validation-behavior)
 - [UNC Charlotte Embedded Systems Course](https://www.youtube.com/playlist?list=PLE4462C1C306E2EB2)
 
 ## License
