@@ -135,10 +135,11 @@
 ### Books
 
 - Anderson, Ross J.: [Security Engineering: A Guide to Building Dependable Distributed Systems](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0470068523.html), John Wiley & Sons, 2nd, 2008 (ISBN-10: 0471389226, ISBN-13: 978-0471389224)
+- Domeika, Max: [Software Development for Embedded Multi-core Systems: A Practical Guide Using Embedded Intel Architecture], Newnes, 1st, 2008 (ISBN-10: 0750685395, ISBN-13: 978-0750685399)
 - González, Alex: [Embedded Linux Projects Using Yocto Project Cookbook](https://www.packtpub.com/virtualization-and-cloud/embedded-linux-projects-using-yocto-project-cookbook), Packt Publishing Limited, 1st edition, 2015 (ISBN-10: 1784395188, ISBN-13: 9781784395186)
 - Hagar, Jon Duncan: [Software Test Attacks to Break Mobile and Embedded Devices](https://www.crcpress.com/Software-Test-Attacks-to-Break-Mobile-and-Embedded-Devices/Hagar/p/book/9781466575301), Chapman & Hall/Crc, 1st, 2013 (ISBN-10: 1466575301, ISBN-13: 978-1466575301)
 - Medoff, Michael and Faller, Rainer: [Functional Safety: An IEC 61508 SIL 3 Compliant Development Process](https://www.amazon.com/Functional-Safety-Compliant-Development-Process/dp/193497708X/ref=sr_1_1?s=books&ie=UTF8&qid=1487104979&sr=1-1&keywords=An+IEC+61508+SIL+3+Compliant+Development+Process), exida.com LLC, 3rd, 2014 (ISBN-10: 193497708X, ISBN-13: 978-1934977088)
-- Domeika, Max: [Software Development for Embedded Multi-core Systems: A Practical Guide Using Embedded Intel Architecture], Newnes, 1st, 2008 (ISBN-10: 0750685395, ISBN-13: 978-0750685399)
+- Rausand, Marvin: [Reliability of Safety-Critical Systems: Theory and Applications](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118112725.html), Wiley, 1st, 2014 (ISBN-10: 1118112725, ISBN-13: 978-1118112724)
 - Simmonds, Chris: [Mastering Embedded Linux Programming](https://www.packtpub.com/networking-and-servers/mastering-embedded-linux-programming), Packt Publishing Limited, 1st edition, 2015 (ISBN-10: 1784392537, ISBN-13: 9781784392536)
 - [Making Embedded Systems by Elicia White](https://www.amazon.com/Making-Embedded-Systems-Patterns-Software/dp/1449302149) - Covers the basics of embedded systems architecture, design and patterns.
 - [Test Driven Developmet for Embedded C by James Grenning](https://www.amazon.com/Driven-Development-Embedded-Pragmatic-Programmers/dp/193435662X/ref=asap_bc?ie=UTF8) - How to approach test driven development for embedded devices written in C.
