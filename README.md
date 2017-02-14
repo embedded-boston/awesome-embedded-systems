@@ -153,6 +153,7 @@ Cross-platform build system. Continuous and IDE integration. Arduino and ARM mbe
 
 ### Courses
 
+- [Computer Systems Design for Energy Efficiency (edx)](https://www.edx.org/course/computer-systems-design-energy-chalmersx-chm007x)
 - [Cybersecurity Fundamentals - Construction of Secure Systems (coursera)](https://www.coursera.org/specializations/cyber-security) Landing page for 5 courses about security with relation to embedded systems.
 - [FPGA Turbo Series - Communication Protocols](https://www.udemy.com/fpga-turbo-series-communication-protocols/)
 - [FPGA Turbo Series - Implementing a UART](https://www.udemy.com/fpga-turbo-series-uart/)
