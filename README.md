@@ -172,6 +172,11 @@ Cross-platform build system. Continuous and IDE integration. Arduino and ARM mbe
 - [System Validation (1): Automata and behavioural equivalences (coursera)](https://www.coursera.org/learn/automata-system-validation)
 - [System Validation (2): Model process behaviour (coursera)](https://www.coursera.org/learn/system-validation-behavior)
 - [UNC Charlotte Embedded Systems Course](https://www.youtube.com/playlist?list=PLE4462C1C306E2EB2)
+- [How To Implement Your First VHDL Design on FPGA (udemy)](https://www.udemy.com/how-to-implement-your-first-vhdl-design-on-fpga/)
+- [Learn VHDL and FPGA Development (udemy)](https://www.udemy.com/vhdl-and-fpga-development-for-beginners-and-intermediates/)
+- [FPGA Design Learning VHDL (udemy)](https://www.udemy.com/fpga-design-learning-vhdl/)
+- [Learn VHDL Design for use in FPGA and ASIC Digital Systems (udemy)](https://www.udemy.com/vhdl-design-and-modeling-of-digital-systems/)
+- [Learn VHDL, ISE and FPGA by Designing a basic Home Alarm (udemy)](https://www.udemy.com/getting-started-with-fpga-ise-and-vhdl/)
 
 ## License
 
