@@ -162,6 +162,8 @@ Cross-platform build system. Continuous and IDE integration. Arduino and ARM mbe
 
 ### Courses
 
+- [C++ programming in Qt FrameWork Part I (udemy)](https://www.udemy.com/c-programming-creating-applications-with-qt-framework/) - not free
+- [C++ programming in Qt Framework: Part II (udemy)](https://www.udemy.com/c-programming-in-qt-framework-part-ii) - not free
 - [Computer Systems Design for Energy Efficiency (edx)](https://www.edx.org/course/computer-systems-design-energy-chalmersx-chm007x)
 - [Cybersecurity Fundamentals - Construction of Secure Systems (coursera)](https://www.coursera.org/specializations/cyber-security) Landing page for 5 courses about security with relation to embedded systems.
 - [Development of Real-Time Systems (coursera)](https://www.coursera.org/learn/real-time-systems)
@@ -169,6 +171,8 @@ Cross-platform build system. Continuous and IDE integration. Arduino and ARM mbe
 - [FPGA Turbo Series - Communication Protocols](https://www.udemy.com/fpga-turbo-series-communication-protocols/)
 - [FPGA Turbo Series - Implementing a UART](https://www.udemy.com/fpga-turbo-series-uart/)
 - [Fun & Easy Embedded Microcontroller Communication Protocols (Udemy)](https://www.udemy.com/fun-easy-embedded-microcontroller-communication-protocols/) - Content: I2C/TWI, SPI, UART, MODBUS RTU, CAN, USB, ETHERNET, PCIE
+- [Introduction to Qt: A C++ Cross Platform Application Framework (pluralsight)](https://www.pluralsight.com/courses/introduction-qt-cplusplus-framework) - not free
+- [Integrating Qt Quick with C++ (pluralsight)](https://www.pluralsight.com/courses/integrating-qt-quick-cpp) - not free
 - [ARM Cortex-M Bare-Metal Embedded-C Programming (Udemy)](https://www.udemy.com/cortex-m-internals-master-pointers-structures-memory-etc/)
 - [ARM Cortex-M Assembly Programming (Udemy)](https://www.udemy.com/arm-cortex-m-assembly-programming/)
 - [Introduction to Embedded Systems using 8051 Microcontroller (Udemy)](https://www.udemy.com/introduction-to-embedded-systems-using-8051-microcontroller/)
@@ -180,6 +184,7 @@ Cross-platform build system. Continuous and IDE integration. Arduino and ARM mbe
 - [System Validation (1): Automata and behavioural equivalences (coursera)](https://www.coursera.org/learn/automata-system-validation)
 - [System Validation (2): Model process behaviour (coursera)](https://www.coursera.org/learn/system-validation-behavior)
 - [UNC Charlotte Embedded Systems Course](https://www.youtube.com/playlist?list=PLE4462C1C306E2EB2)
+- [QT C++ GUI Tutorial For Beginners (udemy)](https://www.udemy.com/qt-c-gui-tutorial-for-beginners/) - not free
 - [How To Implement Your First VHDL Design on FPGA (udemy)](https://www.udemy.com/how-to-implement-your-first-vhdl-design-on-fpga/)
 - [Learn VHDL and FPGA Development (udemy)](https://www.udemy.com/vhdl-and-fpga-development-for-beginners-and-intermediates/)
 - [FPGA Design Learning VHDL (udemy)](https://www.udemy.com/fpga-design-learning-vhdl/)
