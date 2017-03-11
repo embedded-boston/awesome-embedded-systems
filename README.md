@@ -143,6 +143,7 @@
 - Medoff, Michael and Faller, Rainer: [Functional Safety: An IEC 61508 SIL 3 Compliant Development Process](https://www.amazon.com/Functional-Safety-Compliant-Development-Process/dp/193497708X/ref=sr_1_1?s=books&ie=UTF8&qid=1487104979&sr=1-1&keywords=An+IEC+61508+SIL+3+Compliant+Development+Process), exida.com LLC, 3rd, 2014 (ISBN-10: 193497708X, ISBN-13: 978-1934977088)
 - Pathan, Al-Sakib Khan: [Securing Cyber-Physical Systems](https://www.crcpress.com/Securing-Cyber-Physical-Systems/Pathan/p/book/9781498700986), Crc Press Inc, 1st, 2015 (ISBN-10: 1498700985, ISBN-13: 978-1498700986)
 - Rausand, Marvin: [Reliability of Safety-Critical Systems: Theory and Applications](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118112725.html), Wiley, 1st, 2014 (ISBN-10: 1118112725, ISBN-13: 978-1118112724)
+- Langr, Jeff: [Modern C++ Programming with Test-Driven Development - Code Better, Sleep Better](https://pragprog.com/book/lotdd/modern-c-programming-with-test-driven-development), OReilly, 1st edition, 2013 (ISBN-10: 1937785483, ISBN-13: 978-1937785482)
 - Simmonds, Chris: [Mastering Embedded Linux Programming](https://www.packtpub.com/networking-and-servers/mastering-embedded-linux-programming), Packt Publishing Limited, 1st edition, 2015 (ISBN-10: 1784392537, ISBN-13: 9781784392536)
 - [Making Embedded Systems by Elicia White](https://www.amazon.com/Making-Embedded-Systems-Patterns-Software/dp/1449302149) - Covers the basics of embedded systems architecture, design and patterns.
 - [Test Driven Developmet for Embedded C by James Grenning](https://www.amazon.com/Driven-Development-Embedded-Pragmatic-Programmers/dp/193435662X/ref=asap_bc?ie=UTF8) - How to approach test driven development for embedded devices written in C.
@@ -161,6 +162,10 @@ Cross-platform build system. Continuous and IDE integration. Arduino and ARM mbe
 
 ### Courses
 
+- [Computer Systems Design for Energy Efficiency (edx)](https://www.edx.org/course/computer-systems-design-energy-chalmersx-chm007x)
+- [Cybersecurity Fundamentals - Construction of Secure Systems (coursera)](https://www.coursera.org/specializations/cyber-security) Landing page for 5 courses about security with relation to embedded systems.
+- [Development of Real-Time Systems (coursera)](https://www.coursera.org/learn/real-time-systems)
+- [Embedded Systems - Shape The World (edx)](https://www.edx.org/course/embedded-systems-shape-world-utaustinx-ut-6-03x)
 - [FPGA Turbo Series - Communication Protocols](https://www.udemy.com/fpga-turbo-series-communication-protocols/)
 - [FPGA Turbo Series - Implementing a UART](https://www.udemy.com/fpga-turbo-series-uart/)
 - [Fun & Easy Embedded Microcontroller Communication Protocols (Udemy)](https://www.udemy.com/fun-easy-embedded-microcontroller-communication-protocols/) - Content: I2C/TWI, SPI, UART, MODBUS RTU, CAN, USB, ETHERNET, PCIE
@@ -172,7 +177,14 @@ Cross-platform build system. Continuous and IDE integration. Arduino and ARM mbe
 - [Foundation course on Embedded Linux (Udemy)](https://www.udemy.com/foundation-course-on-embedded-linux/)
 - [Hands-on Embedded Systems, ARM Cortex Tutorials - ADCs (Udemy)](https://www.udemy.com/armcortex-adc/)
 - [edX Embedded Systems Course by University of Texas Austin](https://www.edx.org/course/embedded-systems-shape-world-utaustinx-ut-6-03x)
+- [System Validation (1): Automata and behavioural equivalences (coursera)](https://www.coursera.org/learn/automata-system-validation)
+- [System Validation (2): Model process behaviour (coursera)](https://www.coursera.org/learn/system-validation-behavior)
 - [UNC Charlotte Embedded Systems Course](https://www.youtube.com/playlist?list=PLE4462C1C306E2EB2)
+- [How To Implement Your First VHDL Design on FPGA (udemy)](https://www.udemy.com/how-to-implement-your-first-vhdl-design-on-fpga/)
+- [Learn VHDL and FPGA Development (udemy)](https://www.udemy.com/vhdl-and-fpga-development-for-beginners-and-intermediates/)
+- [FPGA Design Learning VHDL (udemy)](https://www.udemy.com/fpga-design-learning-vhdl/)
+- [Learn VHDL Design for use in FPGA and ASIC Digital Systems (udemy)](https://www.udemy.com/vhdl-design-and-modeling-of-digital-systems/)
+- [Learn VHDL, ISE and FPGA by Designing a basic Home Alarm (udemy)](https://www.udemy.com/getting-started-with-fpga-ise-and-vhdl/)
 
 ## License
 
