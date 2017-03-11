@@ -134,7 +134,15 @@
 
 ### Books
 
+- Anderson, Ross J.: [Security Engineering: A Guide to Building Dependable Distributed Systems](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0470068523.html), John Wiley & Sons, 2nd, 2008 (ISBN-10: 0471389226, ISBN-13: 978-0471389224)
+- Domeika, Max: [Software Development for Embedded Multi-core Systems: A Practical Guide Using Embedded Intel Architecture](https://www.elsevier.com/books/software-development-for-embedded-multi-core-systems/domeika/978-0-7506-8539-9), Newnes, 1st, 2008 (ISBN-10: 0750685395, ISBN-13: 978-0750685399)
 - González, Alex: [Embedded Linux Projects Using Yocto Project Cookbook](https://www.packtpub.com/virtualization-and-cloud/embedded-linux-projects-using-yocto-project-cookbook), Packt Publishing Limited, 1st edition, 2015 (ISBN-10: 1784395188, ISBN-13: 9781784395186)
+- Hagar, Jon Duncan: [Software Test Attacks to Break Mobile and Embedded Devices](https://www.crcpress.com/Software-Test-Attacks-to-Break-Mobile-and-Embedded-Devices/Hagar/p/book/9781466575301), Chapman & Hall/Crc, 1st, 2013 (ISBN-10: 1466575301, ISBN-13: 978-1466575301)
+- Kopetz, Hermann: [Real-Time Systems: Design Principles for Distributed Embedded Applications (Real-Time Systems Series)](http://www.springer.com/de/book/9781441982360), Springer, 2nd, 2011 (ISBN-10: 1441982361, ISBN-13: 978-1441982360)
+- Leveson, Nancy G.: [Engineering a Safer World: Systems Thinking Applied to Safety (Engineering Systems)](https://mitpress.mit.edu/books/engineering-safer-world), The MIT Press, 1st, 2012 (ISBN-10: 0262016621, ISBN-13:  978-0262016629)
+- Medoff, Michael and Faller, Rainer: [Functional Safety: An IEC 61508 SIL 3 Compliant Development Process](https://www.amazon.com/Functional-Safety-Compliant-Development-Process/dp/193497708X/ref=sr_1_1?s=books&ie=UTF8&qid=1487104979&sr=1-1&keywords=An+IEC+61508+SIL+3+Compliant+Development+Process), exida.com LLC, 3rd, 2014 (ISBN-10: 193497708X, ISBN-13: 978-1934977088)
+- Pathan, Al-Sakib Khan: [Securing Cyber-Physical Systems](https://www.crcpress.com/Securing-Cyber-Physical-Systems/Pathan/p/book/9781498700986), Crc Press Inc, 1st, 2015 (ISBN-10: 1498700985, ISBN-13: 978-1498700986)
+- Rausand, Marvin: [Reliability of Safety-Critical Systems: Theory and Applications](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118112725.html), Wiley, 1st, 2014 (ISBN-10: 1118112725, ISBN-13: 978-1118112724)
 - Langr, Jeff: [Modern C++ Programming with Test-Driven Development - Code Better, Sleep Better](https://pragprog.com/book/lotdd/modern-c-programming-with-test-driven-development), OReilly, 1st edition, 2013 (ISBN-10: 1937785483, ISBN-13: 978-1937785482)
 - Simmonds, Chris: [Mastering Embedded Linux Programming](https://www.packtpub.com/networking-and-servers/mastering-embedded-linux-programming), Packt Publishing Limited, 1st edition, 2015 (ISBN-10: 1784392537, ISBN-13: 9781784392536)
 - [Making Embedded Systems by Elicia White](https://www.amazon.com/Making-Embedded-Systems-Patterns-Software/dp/1449302149) - Covers the basics of embedded systems architecture, design and patterns.
