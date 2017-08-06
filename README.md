@@ -173,6 +173,7 @@ Cross-platform build system. Continuous and IDE integration. Arduino and ARM mbe
 - [Fun & Easy Embedded Microcontroller Communication Protocols (Udemy)](https://www.udemy.com/fun-easy-embedded-microcontroller-communication-protocols/) - Content: I2C/TWI, SPI, UART, MODBUS RTU, CAN, USB, ETHERNET, PCIE
 - [Introduction to Qt: A C++ Cross Platform Application Framework (pluralsight)](https://www.pluralsight.com/courses/introduction-qt-cplusplus-framework) - not free
 - [Integrating Qt Quick with C++ (pluralsight)](https://www.pluralsight.com/courses/integrating-qt-quick-cpp) - not free
+- [Learn FreeRTOS from scratch](https://www.udemy.com/freertos-getting-started/) - not free - Learn about FreeRTOS basics. Practise it's APIs with different examples.
 - [ARM Cortex-M Bare-Metal Embedded-C Programming (Udemy)](https://www.udemy.com/cortex-m-internals-master-pointers-structures-memory-etc/)
 - [ARM Cortex-M Assembly Programming (Udemy)](https://www.udemy.com/arm-cortex-m-assembly-programming/)
 - [Introduction to Embedded Systems using 8051 Microcontroller (Udemy)](https://www.udemy.com/introduction-to-embedded-systems-using-8051-microcontroller/)
@@ -190,6 +191,7 @@ Cross-platform build system. Continuous and IDE integration. Arduino and ARM mbe
 - [FPGA Design Learning VHDL (udemy)](https://www.udemy.com/fpga-design-learning-vhdl/)
 - [Learn VHDL Design for use in FPGA and ASIC Digital Systems (udemy)](https://www.udemy.com/vhdl-design-and-modeling-of-digital-systems/)
 - [Learn VHDL, ISE and FPGA by Designing a basic Home Alarm (udemy)](https://www.udemy.com/getting-started-with-fpga-ise-and-vhdl/)
+- [The Embedded Pre-Interview! (udemy)](https://www.udemy.com/the-embedded-pre-interview/) - not free - Evaluate your Embedded Systems knowledge, in just 100 minutes, for any entry level job
 
 ## License
 
