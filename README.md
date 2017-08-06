@@ -174,6 +174,8 @@ Cross-platform build system. Continuous and IDE integration. Arduino and ARM mbe
 - [Introduction to Qt: A C++ Cross Platform Application Framework (pluralsight)](https://www.pluralsight.com/courses/introduction-qt-cplusplus-framework) - not free
 - [Integrating Qt Quick with C++ (pluralsight)](https://www.pluralsight.com/courses/integrating-qt-quick-cpp) - not free
 - [Learn FreeRTOS from scratch](https://www.udemy.com/freertos-getting-started/) - not free - Learn about FreeRTOS basics. Practise it's APIs with different examples.
+- [Linux OS in Embedded Systems & Linux Kernel Internals(1/2) (Udemy)](https://www.udemy.com/becoming-linux-expert-series-install-linux-operating-system/) - not free
+- [Linux OS in Embedded Systems & Linux Kernel Internals(2/2) (Udemy)](https://www.udemy.com/c-complete-reference/) - not free
 - [ARM Cortex-M Bare-Metal Embedded-C Programming (Udemy)](https://www.udemy.com/cortex-m-internals-master-pointers-structures-memory-etc/)
 - [ARM Cortex-M Assembly Programming (Udemy)](https://www.udemy.com/arm-cortex-m-assembly-programming/)
 - [Introduction to Embedded Systems using 8051 Microcontroller (Udemy)](https://www.udemy.com/introduction-to-embedded-systems-using-8051-microcontroller/)
