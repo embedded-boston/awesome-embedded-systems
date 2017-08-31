@@ -18,6 +18,7 @@
 	- [Frameworks](#frameworks)
 	- [Embedded Linux](#embedded-linux)
 	- [Alternative Languages (Not C/C++)](#alternative-languages-not-cc)
+		- [D](#d)
 		- [Rust](#rust)
 		- [Elixir](#elixir)
 		- [Ada and Spark](#ada-and-spark)
@@ -92,6 +93,12 @@
 - [SWUpdate](https://github.com/sbabic/swupdate) - Linux Update agent with the goal to provide an efficient and safe way to update (local, remote, multiple update strategies) an embedded system.
 
 ### Alternative Languages (Not C/C++)
+
+#### D
+
+- [minilibd](https://bitbucket.org/timosi/minlibd) - "This collection has libraries and tools to compile D language programs for embedded or "bare metal" systems with the
+gdc compiler. The main focus is STM32 controllers but the library and build tools are easy to port to any processor."
+- [DConf 2014 Talk "Tiny, Ubiquitous Machines Powered by D"](https://archive.org/details/dconf2014-day02-talk07) - Presentation about D in tiny embedded systems.
 
 #### Rust
 - [Zinc](https://zinc.rs/) - Bare-metal ARM stack for rust. Aimed at replacing CMSIS or mbed (currently defunct)
