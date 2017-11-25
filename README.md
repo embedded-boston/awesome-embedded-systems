@@ -6,51 +6,71 @@
 
 # Table of Contents
 
-<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+<!-- TOC depthFrom:2 depthTo:6 orderedList:false updateOnSave:false withLinks:true -->
 
 - [Packages, Libraries and RTOSes](#packages-libraries-and-rtoses)
-	- [Communication](#communication)
-		- [Ethernet](#ethernet)
-		- [CAN](#can)
-		- [Serialization](#serialization)
-	- [RTOS](#rtos)
-	- [Testing](#testing)
-	- [Frameworks](#frameworks)
-	- [Embedded Linux](#embedded-linux)
-	- [Alternative Languages (Not C/C++)](#alternative-languages-not-cc)
-		- [D](#d)
-		- [Rust](#rust)
-		- [Elixir](#elixir)
-		- [Ada and Spark](#ada-and-spark)
-		- [Javascript](#javascript)
-	- [STL](#stl)
+    - [TCP/IP](#tcpip)
+    - [CoAP](#coap)
+    - [CANOpen](#canopen)
+        - [Open Source](#open-source)
+        - [Proprietary](#proprietary)
+    - [Serialization](#serialization)
+    - [RTOS](#rtos)
+        - [Free or Open Source](#free-or-open-source)
+        - [Commercial](#commercial)
+    - [Testing](#testing)
+    - [Frameworks](#frameworks)
+    - [Alternative Languages (Not C/C++)](#alternative-languages-not-cc)
+        - [D](#d)
+        - [Rust](#rust)
+        - [Elixir](#elixir)
+        - [Ada and Spark](#ada-and-spark)
+        - [Javascript](#javascript)
+        - [Clojure](#clojure)
+        - [Golang](#golang)
+    - [STL](#stl)
 - [Resources](#resources)
-        - [Other Lists](#other-lists)
-	- [Podcasts](#podcasts)
-	- [Videos](#videos)
-	- [Books](#books)
-	- [Standards](#standards)
-	- [Tools](#tools)
-	- [Courses](#courses)
+    - [Other Lists](#other-lists)
+    - [Podcasts](#podcasts)
+    - [Videos](#videos)
+    - [Books](#books)
+    - [Standards](#standards)
+    - [Tools](#tools)
+    - [Embedded Linux](#embedded-linux)
+    - [Courses](#courses)
 - [License](#license)
 
 <!-- /TOC -->
 
 ## Packages, Libraries and RTOSes
 
-### Communication
-
-#### Ethernet 
+### TCP/IP
 
 - [lwIP](http://savannah.nongnu.org/projects/lwip/) - lwIP is a small independent implementation of the TCP/IP protocol suite that has been initially developed by Adam Dunkels. Supports DHCP with AutoIP fallback, UDP, TCP, and an interrupt driven model.
 - [uIP](https://github.com/adamdunkels/uip) - A very tiny IP stack, but also a very minimal IP stack. (Not maintained anymore)
 
-#### CAN
+### CoAP
+
+- [cantcoap](https://github.com/staropram/cantcoap) - Small and lightweight coap encoder and decoder. Protocol level stuff is left to the user.
+- [libcoap](https://libcoap.net/) - libcoap implements a lightweight application-protocol for devices that are constrained their resources such as computing power, RF range, memory, bandwith, or network packet sizes
+- [microcoap](https://github.com/1248/microcoap) -  A small CoAP implementation for microcontrollers
+- [libnyoci](https://github.com/darconeous/libnyoci) -  A flexible CoAP stack for embedded devices and computers. RFC7252 compatible.
+
+### CANOpen
+
+#### Open Source
 
 - [CanFestival](http://www.canfestival.org/) - CanFestival focuses on providing an ANSI-C platform independent CANOpen® stack that can be built as master or slave nodes on PCs, Real-time IPCs, and Microcontrollers.
 - [CANopenNode](https://github.com/CANopenNode/CANopenNode) - CANopenNode is written in ANSI C in object-oriented way. It runs on different microcontrollers, as standalone application or with RTOS
 
-#### Serialization
+#### Proprietary
+
+- [Ixxat](https://www.ixxat.com/products/products-industrial/protocol-software-and-apis/protocol-software/canopen-protocol-software)
+- [port](http://www.port.de/en/products/canopen.html)
+- [ESA's microCANOpen Plus](http://www.canopenstore.com/pip/microcanopen-plus.html)
+- [emtas](https://www.emtas.de/en/produkte/canopen-master-stack)
+
+### Serialization
 
 - [nanopb](https://koti.kapsi.fi/jpa/nanopb/) - Nanopb is a plain-C implementation of Google's Protocol Buffers data format. It is targeted at 32 bit microcontrollers, but is also fit for other embedded systems with tight (2-10 kB ROM, <1 kB RAM) memory constraints.
 - [mpack](https://github.com/ludocode/mpack) - A C encoder/decoder for [MessagePack](http://msgpack.com) messages suitable for resource constriants embedded systems. Supports disabling dynamic memory allocation and overriding malloc, free, and realloc.
@@ -90,13 +110,6 @@
 - [Arduino](https://www.arduino.cc/)
 - [ARM mbed](https://www.mbed.com/en/) - The ARM mbed IoT Device Platform provides the operating system, cloud services, tools and developer ecosystem to make the creation and deployment of commercial, standards-based IoT solutions possible at scale.
 
-### Embedded Linux
-
-- [yocto](https://www.yoctoproject.org/) - Yocto is a tool for creating custom embedded linux systems
-- [Buildroot](https://buildroot.org/) - Buildroot is a simple, efficient and easy-to-use tool to generate embedded Linux systems through cross-compilation.
-- [Mender](https://github.com/mendersoftware/mender) - Open source over-the-air (OTA) software updater for embedded Linux devices.
-- [SWUpdate](https://github.com/sbabic/swupdate) - Linux Update agent with the goal to provide an efficient and safe way to update (local, remote, multiple update strategies) an embedded system.
-
 ### Alternative Languages (Not C/C++)
 
 #### D
@@ -108,7 +121,7 @@ gdc compiler. The main focus is STM32 controllers but the library and build tool
 #### Rust
 - [Zinc](https://zinc.rs/) - Bare-metal ARM stack for rust. Aimed at replacing CMSIS or mbed (currently defunct)
 - [rust-embedded](https://github.com/rust-embedded/rfcs) - RFCs proposed by the Rust community for better embedded systems support.
-- [embedd.rs](http://embed.rs/) - Articles about doing embedded on rust
+- [embed.rs](http://embed.rs/) - Articles about doing embedded on rust
 
 #### Elixir
 - [Nerves](http://nerves-project.org/) - Uses buildroot to deploy Elixir programs running on the Erlang VM to embedded linux boards
@@ -121,6 +134,15 @@ gdc compiler. The main focus is STM32 controllers but the library and build tool
 
 - [Tessel](https://tessel.io/) - A openWRT based embedded system which can run Javascript.
 - [JerryScript](https://github.com/Samsung/jerryscript) - A JavaScript engine intended to run on a very constrained devices such as microcontrollers. Designed for the Internet of Things.
+
+#### Clojure
+
+- [Ferrett](https://ferret-lang.org/): Ferret is a free software Clojure implementation for real time embedded control systems. 
+  Generated code is self contained ISO C++11, it is not tied to any one compiler, generated code should be portable between any Operating System and/or Microcontroller that supports a C++11 compliant compiler. It has been verified to run on architectures ranging from embedded systems with as little as 2KB of RAM to general purpose computers running Linux/Mac OS X/Windows. 
+
+#### Golang
+
+- [GERT](https://github.com/ycoroneos/G.E.R.T): GERT is a modified version of Go that runs bare-metal on armv7a SOCs. The minimal set of OS primitives that Go relies on have been re-implemented entirely in Go and Plan 9 assembly inside the modified runtime. The goal of this project is to bring the benefits of a high-level, type-safe, and garbage-collected language to bare-metal embedded environments.
 
 ### STL
 
@@ -172,6 +194,13 @@ gdc compiler. The main focus is STM32 controllers but the library and build tool
 Cross-platform build system. Continuous and IDE integration. Arduino and ARM mbed compatible
 - [Energia](http://energia.nu) - Energia is an open-source electronics prototyping platform, it brings the Wiring and Arduino framework to the Texas Instruments MSP430 based LaunchPad, it includes an IDE that is based on Processing.
 - [XOD](https://xod.io) - An open source visual programming platform for Arduino-compatible boards.
+
+### Embedded Linux
+
+- [yocto](https://www.yoctoproject.org/) - Yocto is a tool for creating custom embedded linux systems
+- [Buildroot](https://buildroot.org/) - Buildroot is a simple, efficient and easy-to-use tool to generate embedded Linux systems through cross-compilation.
+- [Mender](https://github.com/mendersoftware/mender) - Open source over-the-air (OTA) software updater for embedded Linux devices.
+- [SWUpdate](https://github.com/sbabic/swupdate) - Linux Update agent with the goal to provide an efficient and safe way to update (local, remote, multiple update strategies) an embedded system.
 
 ### Courses
 
