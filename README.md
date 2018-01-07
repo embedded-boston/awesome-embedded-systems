@@ -145,7 +145,7 @@ gdc compiler. The main focus is STM32 controllers but the library and build tool
 - [GERT](https://github.com/ycoroneos/G.E.R.T): GERT is a modified version of Go that runs bare-metal on armv7a SOCs. The minimal set of OS primitives that Go relies on have been re-implemented entirely in Go and Plan 9 assembly inside the modified runtime. The goal of this project is to bring the benefits of a high-level, type-safe, and garbage-collected language to bare-metal embedded environments.
 
 #### MicroPython
-[MicroPython](https://micropython.org/) is a lean and efficient implementation of the Python 3 programming language that includes a small subset of the Python standard library and is optimised to run on microcontrollers and in constrained environments. 
+- [MicroPython](https://micropython.org/) is a lean and efficient implementation of the Python 3 programming language that includes a small subset of the Python standard library and is optimised to run on microcontrollers and in constrained environments. 
 
 ### STL
 
