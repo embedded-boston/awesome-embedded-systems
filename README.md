@@ -149,6 +149,7 @@ gdc compiler. The main focus is STM32 controllers but the library and build tool
 - [ESTL](https://github.com/esrlabs/estl-teaser) - C++ STL-like library for embedded developers with C++ 98 features only to maximize target platform compatibility.
 - [ETL](https://github.com/etlcpp/etl) - Embedded Template Library which offers compile time defined container sizes, full C++ 03 and partial C++ 11 compatibility, deterministic behaviour, additional components for the embedded domain, etc.
 - [uSTL](https://github.com/msharov/ustl) - Partial, code size implementation of the STL.
+- [EASTL](https://github.com/electronicarts/EASTL) - Electronic Arts STL - aimed for console devices. Good descripton avaliable [HERE](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2271.html) 
 
 ## Resources
 
