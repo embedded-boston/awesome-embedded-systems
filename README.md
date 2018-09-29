@@ -11,7 +11,7 @@
 - [Packages, Libraries and RTOSes](#packages-libraries-and-rtoses)
     - [TCP/IP](#tcpip)
     - [CoAP](#coap)
-    - [CANOpen](#canopen)
+    - [CANopen](#canopen)
         - [Open Source](#open-source)
         - [Proprietary](#proprietary)
     - [Serialization](#serialization)
@@ -56,19 +56,21 @@
 - [microcoap](https://github.com/1248/microcoap) -  A small CoAP implementation for microcontrollers
 - [libnyoci](https://github.com/darconeous/libnyoci) -  A flexible CoAP stack for embedded devices and computers. RFC7252 compatible.
 
-### CANOpen
+### CANopen
 
 #### Open Source
 
-- [CanFestival](http://www.canfestival.org/) - CanFestival focuses on providing an ANSI-C platform independent CANOpen® stack that can be built as master or slave nodes on PCs, Real-time IPCs, and Microcontrollers.
-- [CANopenNode](https://github.com/CANopenNode/CANopenNode) - CANopenNode is written in ANSI C in object-oriented way. It runs on different microcontrollers, as standalone application or with RTOS
+- [CanFestival](http://www.canfestival.org/) - CanFestival focuses on providing an ANSI-C platform independent CANopen® stack that can be built as master or slave nodes on PCs, Real-time IPCs, and Microcontrollers.
+- [CANopenNode](https://github.com/CANopenNode/CANopenNode) - CANopenNode is written in ANSI C in object-oriented way. It runs on different microcontrollers, as standalone application or with RTOS.
+- [Lely CANopen Library](https://gitlab.com/lely_industries/co) - A CANopen implementation for both masters and slaves written in C, but with a C++ interface.
 
 #### Proprietary
 
 - [Ixxat](https://www.ixxat.com/products/products-industrial/protocol-software-and-apis/protocol-software/canopen-protocol-software)
 - [port](http://www.port.de/en/products/canopen.html)
-- [ESA's microCANOpen Plus](http://www.canopenstore.com/pip/microcanopen-plus.html)
+- [ESA's microCANopen Plus](http://www.canopenstore.com/pip/microcanopen-plus.html)
 - [emtas](https://www.emtas.de/en/produkte/canopen-master-stack)
+- [MicroControl](http://www.microcontrol.net/en/products/protocol-stacks/canopen/)
 
 ### Serialization
 
@@ -85,7 +87,7 @@
 - [RIOT](https://github.com/RIOT-OS/)  - A free OS for IoT devices providing foundational trust services. The trust services include device identity, sealing, attestation, and data integrity. The term “Robust” is used because the minimal trusted computing base is tiny, and because RIoT capabilities can remotely re-establish trust in devices that have been compromised by malware.
 - [RTEMS](https://www.rtems.org/) - Real-Time Executive for Multiprocessor Systems or RTEMS is an open source Real Time Operating System (RTOS) that supports open standard application programming interfaces (API) such as POSIX. It is used in space flight, medical, networking and many more embedded devices using processor architectures including ARM, PowerPC, Intel, Blackfin, MIPS, Microblaze and more.
  [Fuschia](https://github.com/fuchsia-mirror/magenta) - Magenta is the core platform that powers the Fuchsia OS. Magenta is composed of a microkernel (source in kernel/...) as well as a small set of userspace services, drivers, and libraries (source in system/...) necessary for the system to boot, talk to hardware, load userspace processes and run them, etc. Fuchsia builds a much larger OS on top of this foundation.
- 
+
 #### Commercial
 
 - [SafeRTOS](https://www.highintegritysystems.com/safertos/) - Certified version of FreeRTOS by TUEV SUED against IEC 61508 (basic functional safety standard) up to SIL3 (the highest safety integrity level for a single software component), ISO 26262 ASIL D (automotive standard) and EN62304 (medical device standard).
@@ -137,22 +139,22 @@ gdc compiler. The main focus is STM32 controllers but the library and build tool
 
 #### Clojure
 
-- [Ferrett](https://ferret-lang.org/): Ferret is a free software Clojure implementation for real time embedded control systems. 
-  Generated code is self contained ISO C++11, it is not tied to any one compiler, generated code should be portable between any Operating System and/or Microcontroller that supports a C++11 compliant compiler. It has been verified to run on architectures ranging from embedded systems with as little as 2KB of RAM to general purpose computers running Linux/Mac OS X/Windows. 
+- [Ferrett](https://ferret-lang.org/): Ferret is a free software Clojure implementation for real time embedded control systems.
+  Generated code is self contained ISO C++11, it is not tied to any one compiler, generated code should be portable between any Operating System and/or Microcontroller that supports a C++11 compliant compiler. It has been verified to run on architectures ranging from embedded systems with as little as 2KB of RAM to general purpose computers running Linux/Mac OS X/Windows.
 
 #### Golang
 
 - [GERT](https://github.com/ycoroneos/G.E.R.T): GERT is a modified version of Go that runs bare-metal on armv7a SOCs. The minimal set of OS primitives that Go relies on have been re-implemented entirely in Go and Plan 9 assembly inside the modified runtime. The goal of this project is to bring the benefits of a high-level, type-safe, and garbage-collected language to bare-metal embedded environments.
 
 #### MicroPython
-- [MicroPython](https://micropython.org/) is a lean and efficient implementation of the Python 3 programming language that includes a small subset of the Python standard library and is optimised to run on microcontrollers and in constrained environments. 
+- [MicroPython](https://micropython.org/) is a lean and efficient implementation of the Python 3 programming language that includes a small subset of the Python standard library and is optimised to run on microcontrollers and in constrained environments.
 
 ### STL
 
 - [ESTL](https://github.com/esrlabs/estl-teaser) - C++ STL-like library for embedded developers with C++ 98 features only to maximize target platform compatibility.
 - [ETL](https://github.com/etlcpp/etl) - Embedded Template Library which offers compile time defined container sizes, full C++ 03 and partial C++ 11 compatibility, deterministic behaviour, additional components for the embedded domain, etc.
 - [uSTL](https://github.com/msharov/ustl) - Partial, code size implementation of the STL.
-- [EASTL](https://github.com/electronicarts/EASTL) - Electronic Arts STL - aimed for console devices. Good descripton avaliable [HERE](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2271.html) 
+- [EASTL](https://github.com/electronicarts/EASTL) - Electronic Arts STL - aimed for console devices. Good descripton avaliable [HERE](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2007/n2271.html)
 
 ## Resources
 
