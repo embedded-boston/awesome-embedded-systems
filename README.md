@@ -190,6 +190,7 @@ gdc compiler. The main focus is STM32 controllers but the library and build tool
 ### Standards
 
 - [Embedded C Coding Standards](http://www.barrgroup.com/Embedded-Systems/Books/Embedded-C-Coding-Standard) - Coding standards for embedded C from the Barr Group.
+- [SEI CERT C Coding Standard](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard) - The SEI CERT C Coding Standard is a software coding standard for the C programming language to improve the safety, reliability, and security of software systems.
 
 ### Tools
 
