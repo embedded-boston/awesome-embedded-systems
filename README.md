@@ -77,6 +77,7 @@
 - [nanopb](https://koti.kapsi.fi/jpa/nanopb/) - Nanopb is a plain-C implementation of Google's Protocol Buffers data format. It is targeted at 32 bit microcontrollers, but is also fit for other embedded systems with tight (2-10 kB ROM, <1 kB RAM) memory constraints.
 - [mpack](https://github.com/ludocode/mpack) - A C encoder/decoder for [MessagePack](http://msgpack.com) messages suitable for resource constriants embedded systems. Supports disabling dynamic memory allocation and overriding malloc, free, and realloc.
 - [tinycbor](https://github.com/01org/tinycbor) - Intel's implementation of [CBOR](http://cbor.io/) designed for their IOT-based applications and processors
+- [bitproto](https://github.com/hit9/bitproto) -  A fast, lightweight and easy-to-use bit level data interchange format for serializing data structure. Its syntax is similar to protobuf, but very suitable for the embedded systems.
 
 ### RTOS
 #### Free or Open Source
