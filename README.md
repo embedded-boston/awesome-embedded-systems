@@ -110,6 +110,7 @@
 ### Frameworks
 
 - [Arduino](https://www.arduino.cc/)
+- [AREG SDK](https://github.com/aregtech/areg-sdk) - An interface-centric real-time asynchronous communication engine for embedded and high-end applications to enable distributed- and [mist-computing](https://csrc.nist.gov/publications/detail/sp/500-325/final), where connected Things interact and provide services, as if they act like thin distributed servers.
 - [ARM mbed](https://www.mbed.com/en/) - The ARM mbed IoT Device Platform provides the operating system, cloud services, tools and developer ecosystem to make the creation and deployment of commercial, standards-based IoT solutions possible at scale.
 
 ### Alternative Languages (Not C/C++)
