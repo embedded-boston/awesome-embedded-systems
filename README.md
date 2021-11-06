@@ -26,6 +26,8 @@
         - [Elixir](#elixir)
         - [Ada and Spark](#ada-and-spark)
         - [Javascript](#javascript)
+        - [Nim](#nim-lang)
+        - [Zig](#zig-lang)
         - [Clojure](#clojure)
         - [Golang](#golang)
     - [STL](#stl)
@@ -138,6 +140,14 @@ gdc compiler. The main focus is STM32 controllers but the library and build tool
 - [Tessel](https://tessel.io/) - A openWRT based embedded system which can run Javascript.
 - [JerryScript](https://github.com/Samsung/jerryscript) - A JavaScript engine intended to run on a very constrained devices such as microcontrollers. Designed for the Internet of Things.
 
+#### Nim
+
+- [Nim](https://nim-lang.org/) - A statically-typed programming language inspired by Python, Ada and Modula that compiles to C, C++, and Javascript.
+
+#### Zig
+
+- [Zig](https://ziglang.org/)
+
 #### Clojure
 
 - [Ferrett](https://ferret-lang.org/): Ferret is a free software Clojure implementation for real time embedded control systems.
@@ -168,10 +178,17 @@ gdc compiler. The main focus is STM32 controllers but the library and build tool
 - [Embedded](http://embedded.fm/) - Elicia White and Christopher White interview makes, hackers and engineers who work on embedded systems
 - [The Amp Hour](http://www.theamphour.com/)
 - [Sparkgap](http://thesparkgap.net/)
+- [Two's Complement Podcast](https://www.twoscomplement.org/) - Discussions between Matt Godbolt and Ben Rady, revolving around testing, best practices, etc in C and C++ development.
+
+### Blogs
+
+- [Embedded Artistry](https://embeddedartistry.com/) -
+- [Interrupt](https://interrupt.memfault.com/blog/) - Great in-depth blog posts from MemFault. Mostly around ARM Cortex-M series processors.
 
 ### Videos
 
 - [EEVBlog](https://www.eevblog.com/) - More on the electronics side, but David L. Jones tears apart embedded systems and electronic devices.
+- [The Signal Path](https://thesignalpath.com/blogs/) - Electronics equipment teardowns
 
 ### Books
 
