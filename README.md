@@ -185,6 +185,10 @@ gdc compiler. The main focus is STM32 controllers but the library and build tool
 - [Embedded Artistry](https://embeddedartistry.com/) -
 - [Interrupt](https://interrupt.memfault.com/blog/) - Great in-depth blog posts from MemFault. Mostly around ARM Cortex-M series processors.
 
+### Newsletters
+
+- [Embedsys Weekly](https://embedsysweekly.com/) - A weekly selection of embedded software and hardware articles.
+
 ### Videos
 
 - [EEVBlog](https://www.eevblog.com/) - More on the electronics side, but David L. Jones tears apart embedded systems and electronic devices.
