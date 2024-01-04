@@ -125,11 +125,13 @@ gdc compiler. The main focus is STM32 controllers but the library and build tool
 - [DConf 2014 Talk "Tiny, Ubiquitous Machines Powered by D"](https://archive.org/details/dconf2014-day02-talk07) - Presentation about D in tiny embedded systems.
 
 #### Rust
-- [Zinc](https://zinc.rs/) - Bare-metal ARM stack for rust. Aimed at replacing CMSIS or mbed (currently defunct)
+
+- [hubris](https://github.com/oxidecomputer/hubris) -A lightweight, memory-protected, message-passing kernel for deeply embedded systems.
 - [rust-embedded](https://github.com/rust-embedded/rfcs) - RFCs proposed by the Rust community for better embedded systems support.
 - [embed.rs](http://embed.rs/) - Articles about doing embedded on rust
 
 #### Elixir
+
 - [Nerves](http://nerves-project.org/) - Uses buildroot to deploy Elixir programs running on the Erlang VM to embedded linux boards
 
 #### Ada and Spark
