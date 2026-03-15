@@ -15,6 +15,7 @@
         - [Open Source](#open-source)
         - [Proprietary](#proprietary)
     - [Serialization](#serialization)
+    - [Cryptography](#cryptography)
     - [RTOS](#rtos)
         - [Free or Open Source](#free-or-open-source)
         - [Commercial](#commercial)
