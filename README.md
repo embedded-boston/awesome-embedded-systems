@@ -15,6 +15,7 @@
         - [Open Source](#open-source)
         - [Proprietary](#proprietary)
     - [Serialization](#serialization)
+    - [Cryptography](#cryptography)
     - [RTOS](#rtos)
         - [Free or Open Source](#free-or-open-source)
         - [Commercial](#commercial)
@@ -81,6 +82,10 @@
 - [tinycbor](https://github.com/01org/tinycbor) - Intel's implementation of [CBOR](http://cbor.io/) designed for their IOT-based applications and processors
 - [bitproto](https://github.com/hit9/bitproto) -  A fast, lightweight and easy-to-use bit level data interchange format for serializing data structure. Its syntax is similar to protobuf, but very suitable for the embedded systems.
 - [json-build](https://github.com/lcsmuller/json-build) - A tiny, zero-allocation JSON serializer written in ANSI C. A good fit for development in memory constrained systems.
+
+### Cryptography
+
+- [UltrafastSecp256k1](https://github.com/shrec/UltrafastSecp256k1) - High-performance `secp256k1` engine with embedded, RISC-V, ESP32, CPU, CUDA, OpenCL, and WebAssembly targets, plus a stable C ABI.
 
 ### RTOS
 #### Free or Open Source
