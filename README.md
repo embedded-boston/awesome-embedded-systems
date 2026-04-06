@@ -4,6 +4,7 @@
 
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for embedded systems workflow orchestration, automated IoT pipeline management, and multi-agent coordination. MIT licensed.
 # Table of Contents
 
 <!-- TOC depthFrom:2 depthTo:6 orderedList:false updateOnSave:false withLinks:true -->
