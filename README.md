@@ -226,6 +226,9 @@ gdc compiler. The main focus is STM32 controllers but the library and build tool
 Cross-platform build system. Continuous and IDE integration. Arduino and ARM mbed compatible
 - [Energia](http://energia.nu) - Energia is an open-source electronics prototyping platform, it brings the Wiring and Arduino framework to the Texas Instruments MSP430 based LaunchPad, it includes an IDE that is based on Processing.
 - [XOD](https://xod.io) - An open source visual programming platform for Arduino-compatible boards.
+- [Zerial](https://github.com/Wissance/Zerial) - **Zerial** is a modern, lightweight, and responsive cross-platform open source desktop serial port (COM/USB-COM) terminal specifically designed for hardware debugging, microcontroller interaction, and telemetry testing. 
+
+It is built on a modern stack using **.NET** and **Avalonia UI**, proving to be a highly efficient, production-ready example of developer utility built with Avalonia.
 
 ### Embedded Linux
 
