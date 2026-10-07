@@ -51,6 +51,8 @@
 - [lwIP](http://savannah.nongnu.org/projects/lwip/) - lwIP is a small independent implementation of the TCP/IP protocol suite that has been initially developed by Adam Dunkels. Supports DHCP with AutoIP fallback, UDP, TCP, and an interrupt driven model.
 - [uIP](https://github.com/adamdunkels/uip) - A very tiny IP stack, but also a very minimal IP stack. (Not maintained anymore)
 
+- [Handshaked UDP](https://github.com/kewl-ua/handshaked_udp) - POSIX C library for embedded Linux UDP sessions through CGNAT, with keep-alives, connection migration and automatic reconnection.
+
 ### CoAP
 
 - [cantcoap](https://github.com/staropram/cantcoap) - Small and lightweight coap encoder and decoder. Protocol level stuff is left to the user.
