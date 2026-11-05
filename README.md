@@ -226,6 +226,7 @@ gdc compiler. The main focus is STM32 controllers but the library and build tool
 Cross-platform build system. Continuous and IDE integration. Arduino and ARM mbed compatible
 - [Energia](http://energia.nu) - Energia is an open-source electronics prototyping platform, it brings the Wiring and Arduino framework to the Texas Instruments MSP430 based LaunchPad, it includes an IDE that is based on Processing.
 - [XOD](https://xod.io) - An open source visual programming platform for Arduino-compatible boards.
+- [autosar-agent-skills](https://github.com/autosar-skills/autosar-agent-skills) - Zero-dependency Python tools for AUTOSAR Classic: DBC matrix linter (11 checks), revision diff, frame decoding, and ARXML x DBC cross-validation (26 check codes).
 
 ### Embedded Linux
 
