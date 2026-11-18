@@ -268,6 +268,7 @@ Cross-platform build system. Continuous and IDE integration. Arduino and ARM mbe
 - [Learn VHDL Design for use in FPGA and ASIC Digital Systems (udemy)](https://www.udemy.com/vhdl-design-and-modeling-of-digital-systems/)
 - [Learn VHDL, ISE and FPGA by Designing a basic Home Alarm (udemy)](https://www.udemy.com/getting-started-with-fpga-ise-and-vhdl/)
 - [The Embedded Pre-Interview! (udemy)](https://www.udemy.com/the-embedded-pre-interview/) - not free - Evaluate your Embedded Systems knowledge, in just 100 minutes, for any entry level job
+- [Embedded Freedom: 24-Hour Cortex-M4 Deep Dive](https://www.youtube.com/watch?v=qGjXrxINHjM&list=PLP-Zmfw303elthmURjWCOrXQvIDaKJFk3) - Free video course covering the linking process, startup code, Makefiles, and bare-metal Embedded C on ARM Cortex-M4.
 
 ## License
 
